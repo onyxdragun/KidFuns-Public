@@ -1,6 +1,6 @@
 # KidFuns - Digital Allowance Tracker
 
-> ** Live Demo**: [kidfuns.app](https://kidfuns.app) | ** Try Demo Account** (no signup required)
+> **:dart: Live Demo**: [kidfuns.app](https://kidfuns.app) | **:iphone: Try Demo Account** (no signup required)
 
 ## Overview
 
@@ -8,7 +8,7 @@ KidFuns is a modern, full-stack family financial management application that hel
 
 **This is a showcase repository** - the full source code is private, but you can explore the live application and technical documentation here.
 
-## Key Features
+## :bulb: Key Features
 
 - **Family Management**: Create family profiles with role-based access control
 - **Allowance Automation**: Set weekly allowance rates with automatic distribution
@@ -19,7 +19,7 @@ KidFuns is a modern, full-stack family financial management application that hel
 - **Real-time Updates**: Live synchronization across family members
 - **Demo Mode**: Full-featured demo account for easy evaluation
 
-##  Live Demo
+## :rocket: Live Demo
 
 **Try KidFuns instantly** without creating an account:
 
@@ -37,13 +37,13 @@ KidFuns is a modern, full-stack family financial management application that hel
 - ✅ Test responsive design on different devices
 
 ### Demo Limitations
--  Family settings modification restricted
--  Family invite tokens disabled
--  Data resets nightly for consistency
+- :lock: Family settings modification restricted
+- :lock: Family invite tokens disabled
+- :lock: Data resets nightly for consistency
 
 *The demo showcases the full application functionality and user experience.*
 
-##  Technical Architecture
+## :hammer_and_wrench: Technical Architecture
 
 ### Frontend
 - **React 18** - Modern functional components with hooks
@@ -77,7 +77,7 @@ KidFuns is a modern, full-stack family financial management application that hel
 - **Role-based Access** - Family member permissions
 - **Data Encryption** - Sensitive information protection
 
-##  Development Highlights
+## :star: Development Highlights
 
 ### Custom OAuth Implementation
 - Implemented secure Google OAuth flow using Firebase Admin SDK
@@ -99,11 +99,11 @@ KidFuns is a modern, full-stack family financial management application that hel
 - Efficient queries with proper indexing
 - Automated allowance distribution system
 
-##  Screenshots
+## :iphone: Screenshots
 
 *Screenshots and demo videos coming soon - visit the live demo to experience the interface*
 
-##  Project Goals & Learnings
+## :zap: Project Goals & Learnings
 
 This project demonstrates:
 - **Full-stack Development** - Complete application from database to UI
@@ -113,12 +113,10 @@ This project demonstrates:
 - **Responsive Design** - Cross-device compatibility and accessibility
 - **DevOps Practices** - Environment management and deployment strategies
 
-##  Contact
+## :telephone_receiver: Contact
 
-**Developer**: [Your Name]
-**Portfolio**: [Your Portfolio URL]
-**LinkedIn**: [Your LinkedIn]
-**Email**: [Your Email]
+**Developer**: Tyler I  
+[LinkedIn](https://www.linkedin.com/in/tyleringram/)
 
 ---
 
